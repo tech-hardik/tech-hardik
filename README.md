@@ -6,3 +6,5 @@
 - 🤔 I’m looking for help with : Internships/Work
 - 💬 Ask me about : coding and college life in general 😄
 - 📫 How to reach me: hardik.tech@outlook.com
+
+- Did I mention I really, really like Python? C is a great language too though.
